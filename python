@@ -1,0 +1,6 @@
+frutas_para_cores = {"maçã": "#ff0000",
+                     "limão": "#ffff00",
+                     "laranja": "#ffa500"}
+
+for chave in frutas_para_cores:
+    print(chave, frutas_para_cores[chave])
